@@ -1,7 +1,7 @@
-## Interface: 11302
+## Interface: 11305
 ## Title: AnnounceInterrupts
 ## Notes: Announces whenever you interrupt a spell
-## Version: 1.7.0-BETA
+## Version: 1.7.0
 ## SavedVariablesPerCharacter: AnnounceInterruptsDB
 ## Author: Originally created by jostor, rewritted by valsan-azerty-boi
 
